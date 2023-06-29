@@ -1,0 +1,6 @@
+*.js
+usuario.rb
+node_modules
+
+
+#usando o * ignora todos os arquivos com a extensao, ou coloca o nome do arquivo ou pasta
